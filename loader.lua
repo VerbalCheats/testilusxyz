@@ -1,6 +1,6 @@
 if shotgun then
     loadstring(game:HttpGetAsync("https://testilus.xyz/shotgun.lua"))()
-else
-    local plr = game:GetService("Players").LocalPlayer
-    plr:Kick("Option Not Chosen")
+end
+if slasherkatana then
+    loadstring(game:HttpGetAsync("https://testilus.xyz/slasherkatana.lua"))()
 end
