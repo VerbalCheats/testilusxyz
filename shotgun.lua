@@ -1,7 +1,4 @@
-[[
-    Obfuscated with TestiSec (A Modified MoonSec)
-    Obfuscation Date: 19/05/2022
-]]
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
