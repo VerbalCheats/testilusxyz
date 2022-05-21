@@ -1,4 +1,4 @@
-print('Orhub loaded, made by Overlord#6666 and OrPlayz#0255 *https://discord.gg/QGThVHWzrM*')
+print('skidhub loaded [cracked by testilus]')
 
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
@@ -160,10 +160,11 @@ local A = Main.Button({
 	}
 })
 
+
 local A = Credits.Button({
-	Text = "Overlord#6666",
+	Text = "Testilus#0069 - cracked orhub",
 	Callback = function()
-		setclipboard("Overlord#6666")
+		setclipboard("Testilus#0069")
 	end,
 	Menu = {
 		Information = function(self)
@@ -175,23 +176,9 @@ local A = Credits.Button({
 })
 
 local A = Credits.Button({
-	Text = "OrPlayz#0255",
+	Text = "ScriptVerse Discord (Click To Copy)",
 	Callback = function()
-		setclipboard("OrPlayz#0255")
-	end,
-	Menu = {
-		Information = function(self)
-			X.Banner({
-				Text = "fortnite epic"
-			})
-		end
-	}
-})
-
-local A = Credits.Button({
-	Text = "OrHub Discord (Click To Copy)",
-	Callback = function()
-		setclipboard("https://discord.gg/QGThVHWzrM")
+		setclipboard("https://dsc.gg/scriptverse")
 	end,
 	Menu = {
 		Information = function(self)
