@@ -9,6 +9,8 @@ Tapping Legends X | ID: 8750997647
 Trade Tower | ID: 5023820864
 [Auto Farm:]
 + Auto Tap
++ Auto Upgrade: Clicks
++ Auto Upgrade: Case Time
 [Games:]
 Tix Coinflip
 Tix Crash
