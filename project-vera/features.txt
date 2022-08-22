@@ -16,6 +16,7 @@ Trade Tower | ID: 5023820864
 Tix Coinflip
 Tix Crash
 Tix Stock
+Tix Duels
 [Sell RAP:]
 + Sell (with custom amount)
 [Miscellaneous:]
