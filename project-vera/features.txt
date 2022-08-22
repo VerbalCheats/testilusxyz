@@ -11,6 +11,7 @@ Trade Tower | ID: 5023820864
 + Auto Tap
 + Auto Upgrade: Tradebucks
 + Auto Upgrade: Case Time
++ Auto Open Case
 [Games:]
 Tix Coinflip
 Tix Crash
