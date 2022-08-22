@@ -14,7 +14,8 @@ Trade Tower | ID: 5023820864
 [Games:]
 Tix Coinflip
 Tix Crash
-Tix Stock
+[Sell:]
++ RAP Seller
 [Miscellaneous:]
 + Fake Korblox
 + Fake Headless
