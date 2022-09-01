@@ -24,12 +24,18 @@ Tix Duels
 + Fake Headless
 & more soon!
 
-Evade | ID: 9872472334, 10662542523, 10324347967, 10324346056, 10530697691
+Evade | ID: 9872472334
 [Main:]
 + Respawn (do not need to pay 15 robux)
 + God Mode
 + Server Crasher (crashes the entire server)
+[Visuals:]
++ Show Players
+[Modifications:]
++ WalkSpeed
++ JumpPower
 [Miscellaneous:]
 + Boombox Giver
 + Dev Emote Giver
++ Alpha Skin
 & more soon!
