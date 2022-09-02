@@ -34,6 +34,8 @@ Evade | ID: 9872472334
 [Modifications:]
 + WalkSpeed
 + JumpPower
+[Beta Features:]
++ Auto Jump
 [Miscellaneous:]
 + Boombox Giver
 + Dev Emote Giver
