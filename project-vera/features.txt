@@ -37,6 +37,7 @@ Evade | ID: 9872472334
 + JumpPower
 [Beta Features:]
 + Auto Jump
++ Float Up
 + No Camera Shake
 + Full Bright
 [Miscellaneous:]
