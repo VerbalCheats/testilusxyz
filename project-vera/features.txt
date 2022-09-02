@@ -31,6 +31,7 @@ Evade | ID: 9872472334
 + Server Crasher (crashes the entire server)
 [Visuals:]
 + Show Players
++ Show Bots
 [Modifications:]
 + WalkSpeed
 + JumpPower
